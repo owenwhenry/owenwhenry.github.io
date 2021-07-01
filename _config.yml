@@ -9,7 +9,8 @@ name: O. Henry
 description: Data and Such
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://photos.app.goo.gl/cLzd6QPKdLCr3bnH6
+avatar: https://github.com/owenwhenry/owenwhenry.github.io/blob/0611caf2deafee97a016a865df6e950c62273834/images/PXL_20210219_152712796.jpg
+
 #
 # Flags below are optional
 #
@@ -17,15 +18,15 @@ avatar: https://photos.app.goo.gl/cLzd6QPKdLCr3bnH6
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: henryowenw at gmail dot com
+  email:
   facebook:
   flickr:
-  github: owenwhenry
+  github: barryclark/jekyll-now
   instagram:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: digitalheron
+  twitter: jekyllrb
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
