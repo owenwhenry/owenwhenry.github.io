@@ -9,7 +9,7 @@ name: O. Henry
 description: Data and Such
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://github.com/owenwhenry/owenwhenry.github.io/blob/0611caf2deafee97a016a865df6e950c62273834/images/PXL_20210219_152712796.jpg
+avatar: https://github.com/owenwhenry/owenwhenry.github.io/blob/master/images/PXL_20210219_152712796.jpg
 
 #
 # Flags below are optional
@@ -18,18 +18,17 @@ avatar: https://github.com/owenwhenry/owenwhenry.github.io/blob/0611caf2deafee97
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: henryowenw at the gmail dot com
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: owenwhenry
   instagram:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter: digitalheron
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
