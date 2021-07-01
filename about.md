@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi. I'm Owen. Sometimes I write things here. 
 
-### More Information
+I live in Baltimore, MD, where I moved in 2016 with my then-girlfriend-now-wife. 
+She's a rad person and I love her, I hope you're lucky enough to meet her one day.
 
-A place to include any other types of information that you'd like to include about yourself.
+We live with a pair of cats, who are terrorists on paws. 
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+I mostly work with data and bureaucracy, so be prepared to read about both.  
